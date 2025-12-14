@@ -1,0 +1,13 @@
+{
+  "appId": "com.iot.medicinebox",
+  "appName": "Medicine Box",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000
+    }
+  }
+}
